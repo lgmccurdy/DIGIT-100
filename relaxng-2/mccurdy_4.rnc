@@ -1,0 +1,29 @@
+start = root
+root = element root {poem, colophon, citation}
+
+poem = element poem {metadata, title*, author*, content}
+metadata = element metadata {title, author, date, sealed}
+title = element title {class?, text*}
+class = attribute class {"underlined"}
+author = element author {name*, text}
+name = attribute name {"Langston Hughes"| "signed"}
+date = element date {draft, text}
+draft = attribute draft {"final"}
+sealed = element sealed {where, text}
+where = attribute where {"lines 5-10"}
+content = element content {stanza}
+stanza = element stanza {n, line+}
+n= attribute n {xsd:integer}
+line = element line {n, mixed{word*}}
+word = element word {class, text}
+
+colophon = element colophon {author, version, location, date}
+version = element version {text}
+location = element location {text}
+
+citation = element citation {mixed{source*}, text}
+source = element source {text}
+
+
+
+
