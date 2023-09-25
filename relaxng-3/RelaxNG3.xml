@@ -1,0 +1,103 @@
+
+<?xml-model href="RelaxNG3.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <metadata>
+        <title>EXCLUSIVE! 6 QUESTIONS WITH JUNG KOOK, CALVIN KLEIN’S NEWEST GLOBAL
+            AMBASSADOR</title>
+        <writer>FARISIA THANG</writer>
+        <datePublished date="2023-03-29">MARCH 29, 2023</datePublished>
+    </metadata>
+    <introduction>
+        <p num="1">
+            <band full="Bangtan Sonyeondan">BTS’</band> Jung Kook is officially the face of Calvin
+            Klein! The <nationality>South Korean</nationality> singer-songwriter, record producer,
+            and dancer joins <a
+                href="https://elle.com.sg/2023/01/16/look-good-and-feel-good-with-calvin-kleins-latest-collection-for-the-lunar-new-year/"
+                >Calvin Klein</a> as the newest global ambassador. But let’s be real… Fans made
+            their theories and saw it coming shortly after the global head of creative <person
+                role="Head of Creative">Cédric Murac</person> followed him on Instagram
+                <parenthesis>(back when he had Instagram)</parenthesis>. We knew it was going to
+            happen, we were just waiting for the official announcement <parenthesis>(and pictures,
+                let’s be honest)</parenthesis>. </p>
+        <p num="2"> He makes his debut for the brand in a new campaign
+            wearing the brand’s Spring 2023 collections. Shot by <person role="photographer">Park
+                Jong Ha</person>, the campaign captures him in new styles, including the <clothingItems>
+                <item>90s Straight denim and Body Jeans</item>
+                <item>Relaxed Fit Denim Shirt</item>
+                <item>Oversized Denim Jacket</item>
+                <item>Relaxed Fit Standard Logo Crewneck Tee</item>
+            </clothingItems>. </p>
+        <p num="3"> On this announcement, Jung Kook shares <statement>“I have been a fan of Calvin Klein for
+                a long time, and I’m thrilled to be their newest global ambassador. This partnership
+                is very special, as Calvin Klein’s heritage and brand values resonate with me. My
+                music is how I communicate with my fans around the world, and I see this partnership
+                as an opportunity to connect with them in a new way. I’m incredibly excited for
+                people to see a new side of me in this first campaign for the brand.”</statement>
+        </p>
+        <p num="4"> In an exclusive interview with <magazine>ELLE Singapore</magazine>, Jung Kook talks
+            about his latest creative inspirations, where he feels most comfortable, and what
+            boldness means to him. </p>
+    </introduction>
+    <interview>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-1.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="1">When did you first hear of Calvin Klein? What was your first impression of the
+            brand and how has that changed since?</question>
+        <answer num="1">I don’t exactly remember when was the first time I heard of
+            Calvin Klein, but it was after I moved to <city country="South Korea">Seoul</city>. At
+            that time, I wasn’t familiar with many designer brands, but I knew Calvin Klein mostly
+            for their signature underwear. Since then, it’s always been my favourite brand that I
+            wear all the time.</answer>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-2.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="2">How would you describe Calvin Klein? What Calvin Klein items do you wear on a
+            daily basis?</question>
+        <answer num="2">I would say Calvin Klein is <quotations>“one of my closest
+                friends.”</quotations> I do wear Calvin Klein underwear on a daily basis, and I
+            can’t even pick one particular item as I just have so many. Actually, it was my first
+            time wearing essential items from Calvin Klein Jeans when I was shooting the brand’s
+            Spring 2023 campaign, and I loved them. It’s a new look for me, but I feel comfortable
+            and confident that I think I would wear them a lot.</answer>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-3.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="3">What has inspired you creatively recently?</question>
+        <answer num="3">I don’t think I have any specific inspirations lately, but
+            usually, I get inspired by people who are good at what they do—like artists who make
+            killing music, for instance—or people whom I respect.</answer>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-4.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-5.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="4">What’s a place where you feel most comfortable being yourself?</question>
+        <answer num="4">Home is where I feel most comfortable and being myself. Like
+            the feeling you get when you are wearing Calvin Klein underwear!
+                <parenthesis>(laughs)</parenthesis></answer>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-6.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="5">What does boldness mean to you? What makes you feel bold?</question>
+        <answer num="5">To me, boldness is like energy that comes from a powerful
+            desire for something. I’m normally not a bold type, but when I get drawn into something
+            I want or like, I suddenly become a different person.</answer>
+        <image
+            src="https://elle.com.sg/wp-content/uploads/2023/03/Exclusive-ELLE-Singapore-interview-Jung-Kook-Calvin-Kleins-Newest-Global-Ambassador-7.jpg"/>
+        <credit>Photo: Courtesy of <person role="photographer">Park Jong Ha</person> for Calvin
+            Klein</credit>
+        <question num="6">What does it mean for you to join Calvin Klein as a global ambassador?</question>
+        <answer num="6">I’m very happy to be the face of Calvin Klein Jeans and
+            Calvin Klein Underwear. Calvin Klein has always been my favourite brand. Regardless of
+            ambassadorship, I would wear the brand for its unquestionable quality and timeless
+            designs. My Calvins elevate my everyday.</answer>
+    </interview>
+</root>

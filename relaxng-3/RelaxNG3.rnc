@@ -1,0 +1,39 @@
+start = root
+root = element root {metadata, introduction, interview}
+metadata = element metadata {title, writer, datePublished}
+title = element title {text}
+writer = element writer {text}
+datePublished = element datePublished {date, text}
+date = attribute date {xsd:date}
+introduction = element introduction {p+}
+p = element p {num, (text | band | nationality | a | person | parenthesis | clothingItems | item | statement | magazine)*}
+num = attribute num {xsd:integer}
+band = element band {full, text}
+full = attribute full {"Bangtan Sonyeondan"}
+nationality = element nationality {text}
+a = element a {href, text}
+href = attribute href {xsd:anyURI}
+person = element person {role, text}
+role = attribute role {text}
+parenthesis = element parenthesis {text}
+clothingItems = element clothingItems {item+}
+item = element item {text}
+statement = element statement {text}
+magazine = element magazine {text}
+interview = element interview {(text | image | credit | question | answer)+}
+image = element image {src, empty}
+src = attribute src {xsd:anyURI}
+credit = element credit {mixed{person}}
+question = element question {text, num}
+answer = element answer {mixed {num, city?, quotations?, parenthesis?}}
+city = element city {country, text}
+country = attribute country {text}
+quotations = element quotations {text}
+
+
+
+
+
+
+
+
